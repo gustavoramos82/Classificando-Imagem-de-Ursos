@@ -13,7 +13,7 @@ Podemos ver que temos mais urso polar, no inicio não se fará nenhum tratamento
 
 ## Fazendo Extração de caracteristicas
 
-Neste Processo Pegamos uma rede já treinada e usamos a mesma para fazer extração de carcteriticas, utilizando um classifcador, a rede que teve a melhro perfomace como base foi a *InceptionResNetV2* e o classificador que teve a melhor perfomace foi o KNN com as seguinets métricas:
+Neste Processo Pegamos uma rede já treinada e usamos a mesma para fazer extração de carcteriticas, utilizando um classifcador, a rede que teve a melhro perfomace como base foi a *InceptionResNetV2* e o classificador que teve a melhor perfomace foi o KNN com as seguintes métricas:
 
 ![image](https://user-images.githubusercontent.com/39843884/177598262-908e5f9f-ddeb-47f9-91f2-f818b6e1d8ec.png)
 
