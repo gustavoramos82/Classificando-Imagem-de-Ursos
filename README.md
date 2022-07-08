@@ -1,6 +1,4 @@
 # Classificando Imagem de Urso
-![desenvolvimento](https://camo.githubusercontent.com/18185202231435bc1c2003830758e4b9f1567a33602d9d5ed1c73a04f8a44348/687474703a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d535441545553266d6573736167653d454d253230444553454e564f4c56494d454e544f26636f6c6f723d475245454e267374796c653d666f722d7468652d6261646765)
-
 
 Neste projeto, foi aplicado técnicas de classificação para reconhecimento de imagens de Ursos, em que o dataset foi obtido no kaggle(pode ser acessado [aqui](https://www.kaggle.com/datasets/hoturam/bear-dataset))
 
@@ -26,3 +24,7 @@ Aplicando o fine-tunning, obteve os seguintes resultados
 ![image](https://user-images.githubusercontent.com/39843884/177995381-8eb36ab0-0b20-4095-a9ec-91b4bf757105.png)
 
 Comparando os resultados com o kNN da extração de caracteristicas acimas, podemos ver que tem uma diferença muito pequena nas métricas,logo o melhor a ser aplicado, pelo processamento e pela perfomace é a extração de caracteristicas.
+
+## Conclusão
+
+Apesar da classificação estar desbalanceada, o modelo teve uma acuracia em torno de 98%, mostrando uma boa perfomace na classificação de imagens, logo temos um bom modelo para classificar urso sem criar uma rede do zero e mostrando assim uma das vantagens de redes neurais em poder usar como base para extração de caracteristicas
